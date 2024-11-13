@@ -1,4 +1,4 @@
 Content for my new test.txt file
 line 2 added
 line 3 added
-line add from new branch
+line add from new branch, 2nd time change on same line.
