@@ -1,2 +1,3 @@
 Content for my new test.txt file
 line 2 added
+line 3 added
